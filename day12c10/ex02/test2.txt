@@ -1,0 +1,2 @@
+main: test3.txt: No such file or directory
+ft_tail: test3.txt: No such file or directory
